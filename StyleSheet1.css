@@ -1,0 +1,47 @@
+body{
+    background-color:mediumpurple;
+}
+.container span{
+    color:aqua;
+}
+.nav-link {
+    color: black;
+    font-size:1.4rem;
+    font-weight:600;
+}
+.nav-link:hover{
+    color:aqua;;
+}
+.container h1 {
+    margin-top: 3rem;
+}
+.container h3{
+    color:black;
+    line-height:2.4rem;
+}
+.one{
+    margin-left: 1rem;
+}
+.btn {
+    padding: 0.8rem 3rem;
+    font-size: 1rem;
+    font-weight: 700;
+    border: 2px;
+    cursor: pointer;
+    text-transform: uppercase;
+    transition: all .2s ease;
+    background-color:aqua;
+    margin-top: 20rem;
+    margin-left: -12.3rem;
+}
+.btn:hover{
+    background-color:orange;
+    color:black;
+}
+.two {
+    margin-left: 20rem;
+}
+
+.three{
+    margin-left:14.2rem;
+}
